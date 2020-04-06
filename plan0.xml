@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="10.0.2" class="java.beans.XMLDecoder">
+ <object class="businessPlan.BusinessPlan" id="BusinessPlan0">
+  <void class="businessPlan.BusinessPlan" method="getField">
+   <string>department</string>
+   <void method="set">
+    <object idref="BusinessPlan0"/>
+    <string>A1</string>
+   </void>
+  </void>
+  <void class="businessPlan.BusinessPlan" method="getField">
+   <string>year</string>
+   <void method="set">
+    <object idref="BusinessPlan0"/>
+    <int>1</int>
+   </void>
+  </void>
+ </object>
+</java>
